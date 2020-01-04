@@ -8,7 +8,7 @@
     "servers": ["https://raw.githubusercontent.com/Xertyn/infinity-journal/master/"],
     "options": {
         "niceName": "InfinityJournal",
-        "guiName": "Infinity Journal",
+        "guiName": "InfinityJournal",
         "reloadable": false
     },
     "dependencies": {},

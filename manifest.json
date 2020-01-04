@@ -1,16 +1,15 @@
 {
     "files": {
-        "README.md": "f3ce95eb1df8e0360cf990c6048b5f3f591fde6b0a99718ff74072ebfb42a6cc",
         "commands.js": "ce8025c037fd4cc758b3ce249a7c786644207a8a6072c25f86dac1f3fc83173e",
         "index.js": "e9265fb182374bfd42118a4dbe17e84f1a7e4c9a00edd9ff19a03d6d50689eb5",
-        "module.json": "7f7d9af2d3187961aa058537370571d33ed72d0402175bd96b6fd8c682228f06",
-        "ui.js": "4454b25931f0a8736e6604d3f8d3de34380373b62b5f02429d1e6553cc46c2fa",
-        "ui/index.html": "8ab93cd9f79a84e34398d332c8c84d947e4a27bbad3be42e28e65a10aa171eff",
+        "module.json": "548a88cb902776f5a10f268b822bce0eb01324cd595648bc2f1dc7634d1815f1",
+        "ui.js": "72b55f1b6e1217452e5cd800caa9e8ea2e0b66df3fc31dfaad2634421c338c75",
+        "ui/index.html": "05cd69d22db051ba4869079840145df778d6b852bbf468cad4f1aeb2e36e578a",
         "ui/list.js": "6e8ee6c8c7aef7ca3916c368f609c48aa9ec1cf431ee842e70c4a85650735fc0",
         "ui/main.css": "6ec966091c802d1723dc91124cc1e07268c72db79399ff62bd5b2393c5531c15",
         "ui/main.js": "6f1fb2a85d6fceb88d05ecc60dcf33f3f1a66585ae6f7924c554c5137cfd8db4",
         "ui/nekoneko.jpg": "b4cdd7f26237cbe44fe532a7c915136695c62e8caf08001d059c56d58adba675",
-        "utils.js": "d66040ece849dcbdc8bb0cf811d98f63b7c6365e0537e652cce7783d37cdc014"
+        "utils.js": "761b56717672d95bb0204bfcd12153ddaae6174642d44c5eee07daa5789ee47e"
     },
     "defs": {
         "C_ADD_TELEPORT_TO_POS_LIST": 1,
@@ -21,7 +20,7 @@
         "S_ACTION_END": 5,
         "S_LOAD_TELEPORT_TO_POS_LIST": 1,
         "S_LOAD_TOPO": 3,
-        "S_LOGIN": 13,
+        "S_LOGIN": 14,
         "S_PREMIUM_SLOT_DATALIST": 2,
         "S_REQUEST_CONTRACT": 1,
         "S_SPAWN_ME": 3,
